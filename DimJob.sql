@@ -3,7 +3,7 @@
 	JobSkey  INT IDENTITY(1,1) NOT NULL constraint PK_DimJob PRIMARY KEY,	
 	JobNo_NK  VARCHAR(20),
 	BusinessUnit  VARCHAR(80),
-	JobName VARCHAR(50),
+	-- JobName VARCHAR(50),
 	RenamedField VARCHAR(50),
 	SuperCoolNewField VARCHAR(50),
 
