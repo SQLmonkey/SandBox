@@ -4,6 +4,7 @@
 	JobNo_NK  VARCHAR(20),
 	BusinessUnit  VARCHAR(80),
 	JobName VARCHAR(50),
+	NewField VARCHAR(50),
 );
 
 GO
