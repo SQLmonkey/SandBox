@@ -6,6 +6,8 @@
 	-- JobName VARCHAR(50),
 	RenamedField VARCHAR(50),
 	SuperCoolNewField VARCHAR(50),
+	EpicBugFix VARCHAR(50),
+
 
 );
 
